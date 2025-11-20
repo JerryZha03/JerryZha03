@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m working on lidar-camera multi-sensor fusion and Open3D point cloud technical documentation.
 - 🌱 I’m learning AI for computer vision, 3D perception and deep learning-based sensor fusion.
-- 🤔 I’m seeking better solutions for efficient, high-precision lidar-camera calibration.
-- 💬 Ask me about Open3D, MATLAB lidar-camera calibration, ROS 2 data handling or sensor data matching.
 - 📫 How to reach me: 2429829430@qq.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: We pulled off amazing lidar performance after team efforts despite pre-competition doubts!
