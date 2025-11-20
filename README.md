@@ -2,13 +2,16 @@
 
 ## Hi there 👋
 
+<!--
+**JerryZha03/JerryZha03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-- 🔭 I’m currently working on **lidar-camera multi-sensor fusion systems** (including point cloud processing, DBSCAN clustering, sensor calibration, and data matching) and writing technical documentation for Open3D-based point cloud operations.
-- 🌱 I’m currently learning AI (focusing on computer vision, 3D perception, and deep learning for sensor fusion) to optimize multi-modal data alignment and object detection performance.
-- 🤔 I’m looking for better solutions for **lidar-camera calibration** (e.g., more efficient calibration workflows, higher-precision parameter estimation, or toolchains compatible with diverse sensor models).
-- 💬 Ask me about Open3D point cloud processing (filtering, segmentation, visualization), MATLAB Lidar Camera Calibrator usage, ROS 2 data publishing/subscribing, or lidar-camera data matching workflows.
+- 🔭 I’m working on lidar-camera multi-sensor fusion and Open3D point cloud technical documentation.
+- 🌱 I’m learning AI for computer vision, 3D perception and deep learning-based sensor fusion.
+- 🤔 I’m seeking better solutions for efficient, high-precision lidar-camera calibration.
+- 💬 Ask me about Open3D, MATLAB lidar-camera calibration, ROS 2 data handling or sensor data matching.
 - 📫 How to reach me: 2429829430@qq.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I thought we had no chance right before the competition, but after my team and I worked together tirelessly, our lidar delivered an amazing performance the next day!
+- ⚡ Fun fact: We pulled off amazing lidar performance after team efforts despite pre-competition doubts!
